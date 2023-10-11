@@ -19,7 +19,7 @@ body{
     text-align: center;
     height: 400px;
     width: 250px;
-    background: linear-gradient(#6541fd, #312cea);
+    background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     border-radius: 40px;
     padding: 20px;
 }
