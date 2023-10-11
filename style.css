@@ -3,6 +3,7 @@
 .attribution a { color: hsl(228, 45%, 44%); }
 
 body{
+    margin: 50px auto;
     font-family: 'Hanken Grotesk', sans-serif;
 }
 
@@ -83,7 +84,7 @@ p{
 
 .cards{
     display: flex;
-    gap: 6rem;
+    gap: 5rem;
     padding: 15px;
 }
 
@@ -101,17 +102,17 @@ p{
 .card1{
     background-color: rgba(255, 0, 0, 0.089);
     border-radius: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 .card2{
     background-color: rgba(255, 187, 53, 0.089);
     border-radius: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 .card3{
     background-color: rgb(0, 187, 143, 0.089);
     border-radius: 15px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 .card4{
     background-color: rgba(17, 37, 214, 0.089);
@@ -122,6 +123,7 @@ p{
 /* ============ A class to style the individual remarks ================== */
 .react{
     color: rgb(255 85 85);
+    font-size: 15px;
 }
 .mem{
     color: rgb(255 187 53);
