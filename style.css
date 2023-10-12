@@ -84,8 +84,9 @@ p{
 
 .cards{
     display: flex;
-    gap: 5rem;
-    padding: 15px;
+    justify-content: space-between;
+    padding: 10px 15px;
+    
 }
 
 .sub-card{
@@ -127,12 +128,15 @@ p{
 }
 .mem{
     color: rgb(255 187 53);
+    font-size: 15px;
 }
 .verb{
     color: rgb(0 187 143);
+    font-size: 15px;
 }
 .vis{
     color: rgb(17 37 214);
+    font-size: 15px;
 }
 
 .dark{
