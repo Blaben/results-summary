@@ -85,7 +85,7 @@ p{
 .cards{
     display: flex;
     justify-content: space-between;
-    padding: 10px 15px;
+    padding:  20px;
     
 }
 
@@ -177,7 +177,7 @@ p{
     }
 
     .right-box{
-        height: 400px;
+        height: 420px;
         width: 350px;
         border-radius: 0px;
         box-shadow: none;
@@ -186,10 +186,10 @@ p{
 
     .left-box{
         text-align: center;
-        height: 400px;
+        height: 420px;
         width: 350px;
         background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
-        border-radius: 0px 0px 40px 40px;
+        border-radius: 40px;
         padding: 20px;
     }
 }
