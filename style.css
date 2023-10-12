@@ -167,7 +167,7 @@ p{
 
 /* =========== Mobile Design =================== */
 
-@media (max-width: 450px) {
+@media (max-width:450px) {
     .container {
         display: flex;
         justify-content: center;
