@@ -178,7 +178,7 @@ p{
 
     .right-box{
         height: 400px;
-        width: 250px;
+        width: 350px;
         border-radius: 0px;
         box-shadow: none;
         padding: 20px;
@@ -187,7 +187,7 @@ p{
     .left-box{
         text-align: center;
         height: 400px;
-        width: 250px;
+        width: 350px;
         background: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
         border-radius: 0px 0px 40px 40px;
         padding: 20px;
