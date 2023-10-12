@@ -35,7 +35,7 @@ body{
 .score{
     display: flex;
     justify-content: center;
-    background-color: #312cea;
+    background: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
     height: 180px;
     width: 180px;
     border-radius: 50%;
@@ -51,7 +51,7 @@ body{
 
 p{
     font-size: 15px;
-    color: rgb(185, 185, 185);
+    color: rgb(212, 212, 212);
     margin: 0px;
 }
 
@@ -142,6 +142,10 @@ p{
 .dark{
     font-weight: bold;
     color: black;
+}
+
+.grey{
+    color: grey;
 }
 
 /*============== Styling the continue button*/
